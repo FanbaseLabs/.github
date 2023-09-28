@@ -1,9 +1,9 @@
-**I Luv Fanbase.io!**
+**Introduction**
 
-+ Welcome to **`Fanbase.io`** where anyone interested in contributing to the **Open Source** code can connect with peers, learn, and collaborate on various projects!
++ Welcome to **`Fanbase.io`** where developers interested in contributing to the **Open Source** code can connect with peers, learn, and collaborate!
 
 <img src="https://github.com/FanbaseLabs/.github/blob/main/profile/resource/logo.png?raw=true" alt="fanbase" width="200" align="center">
-<p align="center"> ###fanbase </p>
+<p align="center"> **I Luv Fanbase.io!** </p>
 
 **About**
 
