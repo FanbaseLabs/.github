@@ -13,7 +13,7 @@ Fanbasse Labs releases **open source** code to increase transparency and encoura
 
 **Mission**
 
-At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions, so we have created DeFi tools and **open source** protocols, released on **public blockchains**, that facilitate pure independence. 
+At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions. Witn that mission in mind, we have created DeFi tools and **open source** protocols, released on **public blockchains**, that facilitate pure independence. 
 
 
 **Tools**
