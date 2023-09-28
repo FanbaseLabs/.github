@@ -18,10 +18,10 @@ At Fanbase Labs, we believe that independent artists and developers should be ab
 
 **Independence**
 
-Pure independence is acheived when creators can swap media and sell tickets from their own website, without middleman distributors taking a cut of sales, like Apple Music, or TicketMaster. Today, this freedom is possiblee using ERC1155s and Fanbase DeFi tools which allow you to sell NFTs from your own website.
+Pure independence is acheived when creators can swap media and sell tickets from their own website, without middleman distributors taking a cut of sales, like Apple Music, or TicketMaster. Today, this freedom is possiblee using ERC1155s and Fanbase DeFi tools which allow you to swap NFTs from your own website.
   
 
-Pure independence is further acheived when early adopters are rewarded for their devotion to a new artist, organization, or technology and recieve ERC20 tokens that can be redeemeed for real world value.  Today, this freedom is possible using ERC20s and Fanbasee DeFi tools which allow you to swap tokens on your own website. 
+Pure independence is further acheived when early adopters are rewarded for their devotion to a new artist, organization, or technology and recieve ERC20 tokens that can be redeemeed for real world value.  Today, this freedom is possible using ERC20s and Fanbasee DeFi tools which allow you to swap tokens from your own website. 
 
   
 **Tools**
