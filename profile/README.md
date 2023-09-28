@@ -12,7 +12,7 @@ Fanbasse Labs releases **open source** code to encourage input from its communit
 
 Here you can make pull requests, open issues, share ideas, help each other, and fix problems!
 
-
+<p </p>
 **Mission**
 
 At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions, so we have created DeFi tools and **open source** protocols, released on **public blockchains**, that facilitate pure independence. 
