@@ -8,12 +8,12 @@ Welcome to **`Fanbase Labs`** where developers interested in contributing **open
 
 **About**
 
-Fanbasse Labs releases **open source** code to increase transparency and encourage input from its community members. 
+Fanbase Labs releases **free tools** for creators and **open source** code to increase transparency and encourage input from its community members. 
 
 
 **Mission**
 
-At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions. With that mission in mind, we have created DeFi tools and **open source** protocols, released on **public blockchains**, to facilitate pure independence. 
+At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions. With that mission in mind, we have created user interfaces built on top of **open source** public protocols, released on **public blockchains**, to facilitate pure independence. 
 
 
 **Independence**
