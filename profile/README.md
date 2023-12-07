@@ -28,7 +28,7 @@ At Fanbase Labs, we believe that independent artists and developers should be ab
 Pure independence is acheived when creators can swap media and sell tickets from their own website, without middlemen or distributors taking a cut of sales, like Apple Music, or TicketMaster. Today, this freedom is possible using ERC1155s and Fanbase DeFi tools which allow you to swap, 'buy' and 'sell' NFTs from your own website.
   
 
-Pure independence is further acheived when early adopters are rewarded for their devotion to a new artist, organization, or technology and recieve ERC20 tokens that can be redeemeed for Ethereum, WFNB, and other large tokens.  Today, this freedom is possible using ERC20s and Fanbase DeFi tools which allow you to earn rewards for getting on the bandwagon early. 
+Pure independence is further acheived when early adopters are rewarded for their devotion to a new artist, organization, or technology and recieve ERC20 tokens that can be redeemeed for Ethereum, WFNB, and other large tokens.  Today, this freedom is possible using Fanbase DeFi tools where you can earn rewards for getting on the bandwagon early. 
 
 
   
