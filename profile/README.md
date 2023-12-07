@@ -1,4 +1,4 @@
-![ILUVFanbaseIO_AD](https://github.com/FanbaseLabs/.github/assets/145924938/7b918ed4-5955-4bfc-afa5-97ea586f6775)
+![ILUVFanbaseIO_AD2](https://github.com/FanbaseLabs/.github/assets/145924938/ba0c4bf2-57f2-41f9-be20-b98988c7bb1a)
 
 
 <p align="center"> I LUV FANBASE.IO! </p>
