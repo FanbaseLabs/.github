@@ -40,7 +40,7 @@ Today, using Fanbase Labs' tools, artists and developers can gather patrons and 
 
 **Call to Action**
 
-Join Us! If you are interested in adding value to Fanbase Labs' **open source** repos or connecting with developers who are building DeFi tools for creators, then you have come to the right place. Here you can make pull requests, open issues, share ideas, help each other, and fix problems!
+Join Us! If you are interested in adding value to Fanbase Labs, contributing to the mission, or connecting with developers who are building DeFi tools for creators, then you have come to the right place. Here you can make pull requests, open issues, share ideas, help each other, and fix problems!
 
 
 
