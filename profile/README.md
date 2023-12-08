@@ -46,6 +46,6 @@ Join Us! If you are interested in adding value to Fanbase Labs, contributing to 
 
 **Community Support**
 
-Raise an issue to join the Fanbase Labs Developer Community here: https://www.bonjourno.com/groups/65594cf8b19ed60014384972. 
+Raise an issue to join the Fanbase Labs Developer Community here: https://www.bonjourno.com/groups/65594cf8b19ed60014384972.  xxx
 
 Ask questions to Fanbase Foundation, which manages the open-source, decentralized protocols that act as a public utility for swapping, staking or selling tokens or NFTs, and advocates on behalf of the WFNB token, or join the 10k token airdrop list here: https://www.bonjourno.com/groups/60636aa308144b00174b10c0. 
