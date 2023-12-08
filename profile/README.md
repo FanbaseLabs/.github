@@ -53,7 +53,8 @@ https://www.bonjourno.com/groups/65594cf8b19ed60014384972.
 
 **Fanbase Foundation**
 
-Fanbase Foundation is a seperate entity from Fanbase Labs, doing great work to grow the ecosystem. Read about Fanbase Foundation here: https://www.fanbase.foundation
+Fanbase Foundation is a seperate entity from Fanbase Labs, doing great work to grow the ecosystem.
+Read about Fanbase Foundation here: https://www.fanbase.foundation
 
 You can ask questions to Fanbase Foundation, or join the 10k token airdrop list here:
 https://www.bonjourno.com/groups/60636aa308144b00174b10c0 
