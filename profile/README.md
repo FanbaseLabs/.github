@@ -46,7 +46,8 @@ Join Us! If you are interested in adding value to Fanbase Labs, contributing to 
 
 **Community Support**
 
-Raise an issue, or join the Fanbase Labs Developer Community here: https://www.bonjourno.com/groups/65594cf8b19ed60014384972.  
+Raise an issue, or join the Fanbase Labs Developer Community here:
+https://www.bonjourno.com/groups/65594cf8b19ed60014384972.  
 
 
 
@@ -54,8 +55,10 @@ Raise an issue, or join the Fanbase Labs Developer Community here: https://www.b
 
 Fanbase Foundation is a seperate entity from Fanbase Labs, doing great work to grow the ecosystem. Read about Fanbase Foundation here: https://www.fanbase.foundation
 
-You can ask questions to Fanbase Foundation, or join the 10k token airdrop list here: https://www.bonjourno.com/groups/60636aa308144b00174b10c0 
+You can ask questions to Fanbase Foundation, or join the 10k token airdrop list here:
+https://www.bonjourno.com/groups/60636aa308144b00174b10c0 
 
-Finally, you can review Fanbase Foundation's open-source, decentralized protocols here: https://github.com/FanbaseEU 
+Finally, you can review Fanbase Foundation's open-source, decentralized protocols here:
+https://github.com/FanbaseEU 
 
 
