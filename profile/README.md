@@ -13,7 +13,7 @@ Welcome to **Fanbase Labs**, where developers interested in contributing **open 
 Fanbase Labs releases **free tools** for creators, developers and designers, built on top of **open source**, public protocols, to increase engagement and encourage input from community members. Our user interfaces are taking crypto mainstream with, among other things, an embeddable NFT player used to stream music, swap tickets, or sell game items like skins, and a decentralized swap which allows you to narrow your offer and sell only one token from your own website, app, or dApp. 
 
 
-<img src="https://github.com/FanbaseLabs/.github/blob/main/profile/resource/logo.png?raw=true" alt="fanbase" width="510" align="right">
+<img src="https://github.com/FanbaseLabs/.github/blob/main/profile/resource/logo.png?raw=true" alt="fanbase" width="300" align="right">
 
 
 
@@ -28,8 +28,7 @@ At Fanbase Labs, we believe that independent artists and developers should be ab
 Pure independence is achieved when creators can swap media and sell tickets from their own website, without middlemen or distributors taking a cut of sales, like Apple Music, or TicketMaster. Today, this freedom is possible using ERC1155s and Fanbase DeFi tools which allow you to swap, 'buy' and 'sell' NFTs from your own website.
   
 
-Pure independence is further acheived when early adopters are rewarded for their engagement and recieve ERC20 tokens that are later redeemable for music, media, or other tokens. Today, this freedom is possible using Fanbase DeFi tools
-where users earn rewards for jumping on the bandwagon early. 
+Pure independence is further acheived when early adopters are rewarded for their engagement and recieve ERC20 tokens that are later redeemable for music, media, or other tokens. Today, this freedom is possible using Fanbase DeFi tools where users earn rewards for jumping on the bandwagon early. 
 
 
   
