@@ -34,7 +34,7 @@ Pure independence is further acheived when early adopters are rewarded for their
   
 **Tools**
 
-Today, using Fanbase Labs' tools, artists and developers can gather patrons and distribute their work outside the reach of corporations, VCs, and banking institutions. We have created tools, released on public blockchains, that facilitate pure independence. Using **open source** protocols from our partners at Fanbase Foundation, Ethereum Foundation and others, you can now swap ERC1155 NFTs from your own website. This means you can now sell collectible music, motion comics, music videos, general admission tickets, cards, games and films from your own website. 
+Today, using Fanbase Labs' tools, artists and developers can gather patrons and distribute their work outside the reach of corporations, VCs, and banking institutions. We have created tools, released on public blockchains, that facilitate pure independence. Using **open source** protocols from our partners at Fanbase Foundation, Ethereum Foundation and others, you can now swap ERC1155 NFTs from your own website. This means you can now sell collectible music, motion comics, music videos, general admission tickets, cards, games and films from your own website. And, your buyers can resell that media later.  
 
 
 
