@@ -5,7 +5,7 @@
 
 **Introduction**
 
-Welcome to **Fanbase Labs**, where developers interested in contributing **open source code for creators** can connect with peers, learn, and collaborate!
+Welcome to **Fanbase Labs**, where developers interested in contributing **open source code for creators** can connect with peers, learn, and collaborate! 
 
 
 **About**
