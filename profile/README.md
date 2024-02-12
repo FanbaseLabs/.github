@@ -19,7 +19,7 @@ Fanbase Labs releases **free tools** for creators, developers and designers, bui
 
 **Mission**
 
-At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions. With that mission in mind, we have created user interfaces and APIs built on top of **open source** protocols and **public blockchains**, to facilitate pure independence. 
+At Fanbase Labs, we believe that independent artists and developers should be able to gather patrons and distribute their work outside the influence of corporations, VCs, and banking institutions. With that mission in mind, we have created user interfaces and APIs built on top of **open source** protocols and **public blockchains** from Fanbase Foundation, Ethereum  Foundation and others, to facilitate pure independence. 
 
 
 
