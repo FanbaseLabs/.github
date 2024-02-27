@@ -43,11 +43,33 @@ Today, using Fanbase Labs' tools, artists and developers can gather patrons and 
 Join Us! If you are interested in adding value to Fanbase Labs, contributing to the mission, or connecting with developers who are building DeFi tools for creators, then you have come to the right place. Here you can make pull requests, open issues, share ideas, help each other, and fix problems!
 
 
+**View Plans**
+
+Access Fanbase Labs' suite of APIs and widgets for swapping and staking here:
+https://www.plan.fanbase.io
+
+
+**Review Documents**
+
+Review Fanbase Labs' product documentation here:
+https://fanbase-io.gitbook.io/docs
+
 
 **Community Support**
 
 Raise an issue, or join the Fanbase Labs Developer Community here:
 https://www.bonjourno.com/groups/65594cf8b19ed60014384972
+
+
+**Production**
+
+Test the Fanbase Labs APIs by using our website and browser wallet:
+https://www.defi.fanbase.io
+
+Test the Fanbase Labs widgets by using our website and browser wallet:
+https://www.defi.fanbase.io
+
+
 
 
 
