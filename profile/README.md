@@ -10,7 +10,7 @@ Welcome to **Fanbase Labs**, where developers interested in contributing **open 
 
 **About**
 
-Fanbase Labs releases **free tools** for creators, developers and designers, built on top of **open source**, public protocols, to increase engagement and encourage input from community members. Our user interfaces are taking crypto mainstream with, among other things, an embeddable NFT player used to stream music, swap tickets, or sell game items like skins, and a decentralized swap which allows you to narrow your offer and sell only one token from your own website. 
+Fanbase Labs releases **free tools** for creators, developers and designers, built on top of **open source**, public protocols, to increase engagement and encourage input from community members. Our user interfaces are taking crypto mainstream with, among other things, an embeddable NFT player used to stream music, swap tickets, or sell game items like skins, and a decentralized swap which allows you to narrow your offer and distribute only one token from your own website. 
 
 
 <img src="https://github.com/FanbaseLabs/.github/blob/main/profile/resource/logo.png?raw=true" alt="fanbase" width="300" align="right">
