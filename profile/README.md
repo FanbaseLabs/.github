@@ -65,11 +65,7 @@ https://www.bonjourno.com/groups/65594cf8b19ed60014384972
 
 Test the Fanbase Labs APIs by using our website and browser wallet:
 https://www.defi.fanbase.io
-
-Test the Fanbase Labs widgets by using our website and browser wallet:
-https://www.defi.fanbase.io
-
-
+https://chromewebstore.google.com/detail/fanbaseio/ehkdpgmlbmklaiibhcdggpbohgggjibl
 
 
 
